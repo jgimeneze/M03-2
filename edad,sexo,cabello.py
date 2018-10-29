@@ -1,4 +1,4 @@
-edadmenor=int(input(<=5))
+edadmenor=int(input("Introduce la edad:"))
 edadmayor=int(input(>=65))
 sexo=input("Hombre")or("Mujer")
 cabello=input("Moreno")or("Castaño")or("Rubio")
